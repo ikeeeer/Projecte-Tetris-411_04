@@ -1,0 +1,5 @@
+﻿  Partida.cpp
+C:\Users\ikeru\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Partida.cpp(384,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ikeru\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Partida.cpp(384,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ikeru\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\0. C++ Code\Logic Game\Partida.cpp(159): warning C4172: returning address of local variable or temporary: f
+  MP_Practica.vcxproj -> C:\Users\ikeru\Downloads\intro_llibreria_grafica\intro_llibreria_grafica_estudiants\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
